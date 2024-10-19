@@ -8,7 +8,7 @@ cat <<EOL > .devcontainer/devcontainer.json
             "version": "latest"
         }
     },
-    "postStartCommand": "python3 /workspaces/smokie/smokie.py",
+    "postStartCommand": "python3 /workspaces/LillyXd/smokie.py",
     "customizations": {
         "vscode": {
             "settings": {
